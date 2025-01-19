@@ -1,0 +1,40 @@
+.projects__container {
+    max-width: 768px;
+}
+
+.projects__tabs{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: var(--mb-2);
+}
+
+.projects__button {
+    display: flex;
+    gap: 0.5rem;
+    cursor: pointer;
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+
+
+.projects__card{
+    margin-bottom: var(--mb-2);
+    justify-self: center;
+    flex: 1;
+    display: block;
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 1rem;
+    padding: 1rem 2rem;
+}
+
+.projects__description{
+    font-size: var(--small-font-size);
+    color: var(--text-color);
+}
