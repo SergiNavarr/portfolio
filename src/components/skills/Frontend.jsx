@@ -60,6 +60,24 @@ export const Frontend = () => {
                             <span className="skills__level">Basic</span>
                         </div>
                     </div>
+
+                    <div className="skills__data">
+                        <i className="bx bxl-typescript"></i>
+
+                        <div>
+                            <h3 className="skills__name">TypeScript</h3>
+                            <span className="skills__level">Basic</span>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i className="bx bxl-react"></i>
+
+                        <div>
+                            <h3 className="skills__name">NextJS</h3>
+                            <span className="skills__level">Basic</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
