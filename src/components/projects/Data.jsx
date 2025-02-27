@@ -1,7 +1,6 @@
 import Image1 from "../../assets/tutucas_img.jpg";
 import Image2 from "../../assets/concesionaria.jpg";
-import Image3 from "../../assets/pruebaimagen3.png";
-import Image4 from "../../assets/pruebaimagen4.png";
+import Image3 from "../../assets/subscriptionTracker.jpg";
 
 export const Data = [
     {
@@ -18,18 +17,11 @@ export const Data = [
         link: "https://github.com/SergiNavarr/concesionaria",
         descripcion: "Aplicación de escritorio hecha en Java para practicar y demostrar conocimientos en POO, MySQL y JPA. Permite hacer altas, bajas, consultas y modificaciones de automoviles en una base de datos"
         },
-    /*{
+    {
         id: 3,
         image: Image3,
-        category: "Spring",
-        title: "Proyecto 3",
-        descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Consequatur blanditiis, laboriosam quod aut sit laborum odio quaerat dolorum magni quasi voluptatibus quam.Ut suscipit mollitia quia fugiat.Nesciunt, quibusdam sint."
+        title: "Subscription Tracker",
+        link: "https://subscription-tracker-flame.vercel.app/",
+        descripcion: "Aplicacion web que permite administrar tus subscripciones a servicios de streaming segun tu presupuesto"
     },
-    {
-        id: 4,
-        image: Image4,
-        category: "Spring",
-        title: "Proyecto 4",
-        descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Consequatur blanditiis, laboriosam quod aut sit laborum odio quaerat dolorum magni quasi voluptatibus quam.Ut suscipit mollitia quia fugiat.Nesciunt, quibusdam sint."
-    }*/
 ];
